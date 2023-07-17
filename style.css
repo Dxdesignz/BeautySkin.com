@@ -643,6 +643,7 @@ section{
     border-radius: 0px 10px 10px 0px;
     background-color: transparent;
     margin-left: 10px;
+    color: var(---white);
 }
 .form .data-form .full-data .first-form .email-form ::placeholder{
     color: var(---white);
